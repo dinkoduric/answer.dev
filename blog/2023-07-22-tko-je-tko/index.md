@@ -1,1 +1,3 @@
+Reputation score is a reflection of a community member’s credibility. Community members establish this based on their actions and contributions. Simultaneously, a reputation system is formed to track participants' trustworthiness, credibility, and behavior.
 
+Besides tagging, reputation is an important part of content management in Answer. Community members gain reputation scores by adhering to community guidelines and continuous contributions. Community moderators and administrators use reputation scores to determine user privileges. This helps run and maintain a healthy community environment and discourages disruptive behavior

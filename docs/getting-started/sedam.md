@@ -2,7 +2,7 @@
 slug: /sedam
 ---
 
-# Database description
+# Sedam
 :::note
 
 Different databases have different data types. The following table presumes use of mysql/mariadb as an example.

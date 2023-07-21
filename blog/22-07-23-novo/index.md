@@ -2,7 +2,7 @@
 title: "Have a Closer Look at Answer 1.0.9: New Features, and More"
 authors: [Anne]
 category: Release
-featured: faulse
+featured: true
 image: 2023-07-22-cover@4x.png
 description: Take a closer look at how you can manage questions efficiently with Answer v1.0.9.
 ---

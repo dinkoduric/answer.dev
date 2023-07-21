@@ -10,10 +10,8 @@ The latest version of Answer comes with new tweaks, improvements and optimizatio
 
 ## What’s New
 Pin an important or frequently asked question for your Q&A platform, so that it always stay on the top of your community. 
-![Pin a Question in Answer](1.0.9release1.gif)
 
 Unlist a question to make it invisible for temporary modification, or further review. Admin can list question again in Admin\>Contents\>Questions. 
-![Unlist a Question](1.0.9release2.gif)
 
 Pin and Unlist help to tailor a knowledge-based community of your own, while maintain and organize the knowledge system can be easy. 
 

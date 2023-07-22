@@ -10,7 +10,7 @@ import HeaderSlogan from '../components/HeaderSlogan';
 const supportList = [
   {
     key: 'email',
-    url: 'mailto:support@answer.dev',
+    url: 'mailto:dinko.duric@gmail.com',
     icon: <Icon name="envelope-fill" size="48px" className="text-primary" />,
     info: <Translate id="contact.email" values={{
             br: <br />,

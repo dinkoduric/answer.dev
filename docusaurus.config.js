@@ -28,7 +28,7 @@ const config = {
     locales: ['hr',],
     localeConfigs: {
       hr: {
-        label: 'Croatian',
+        label: 'Hrvatski',
         direction: 'ltr',
       },
     }

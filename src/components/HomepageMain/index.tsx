@@ -93,7 +93,7 @@ function Feature({ title, icon, description, later }: FeatureItem) {
 export default function HomepageFeatures(): JSX.Element {
   const bannerList = [
     {
-      laptop: require('@https://static.story.hr/Picture/381103/jpeg/Jadranka-Kosor.jpeg').default,
+      laptop: require('@site/static/img/home-laptop@2x.png').default,
       mobile: require('@site/static/img/home-mobile@2x.png').default,
     },
     {
